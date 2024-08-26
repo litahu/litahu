@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-<img src="https://giphy.com/embed/fxwtAlyyTO4CNrDzTg" width="480" align="right" style="margin-left: 30px;"/>
-
-
 
 
 ## ⚡ technologies
+```diff
+<Lita Hume/>
+
+@@ Data-science @@
+
+My technology stack: # JavaScript, # HTML, # CSS y # Git
+```
