@@ -8,5 +8,5 @@
 
 @@ Data-science @@
 
-My technology stack: # JavaScript, # HTML, # CSS y # Git
+⚡ My technology stack: # JavaScript, # HTML, # CSS y # Git
 ```
