@@ -3,7 +3,7 @@
 ```diff
 <Lita Hume 👩🏽 />
 
-I'm aspiring to become a @@ Data-science @@, and I'm in all about that hustle to keep learning
+I'm aspiring to become a @@ Data-science @@ , and I'm in all about that hustle to keep learning
 and growing in the data game. I'm diving into the world of data analysis, data science, and
 data engineering, even though my formal education didn't exactly lead me down the computer
 science or statistics path ⭐. But guess what? I'm not letting that stop me!
