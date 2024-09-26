@@ -10,7 +10,7 @@ science or statistics path ⭐. But guess what? I'm not letting that stop me!
 Every day, I'm learning and growing in data professional
 
 📊 Competencies: Explotaroty Data Analysis, Statistical Analysis, Data Visualization y Machine Learning
-⚡ My technology stack:# SQL # Python # JavaScript, # HTML, # CSS y # Git
+⚡ My technology stack:# SQL # Python y # Git
 🌍 Love riding a bike 🚴‍♀️ and tecnology 💻
 
 ```
