@@ -4,11 +4,10 @@ I'm Litahm! I'm aspiring to become a data professional ⭐
 
 ```diff
 @@ Data Science @@
-📊 Competencies: Explotaroty Data Analysis, Statistical Analysis, Data Visualization y Machine Learning
-⚡ My technology stack: # Python # SQL(MySQL) #BigQuery #Tableu #Looker Studio y # Git
+📊 **Competencies:** Explotaroty Data Analysis, Statistical Analysis, Data Visualization y Machine Learning
+⚡ **My technology stack:** # Python # SQL(MySQL) #BigQuery #Tableu #Looker Studio y # Git
 🌍 Love riding a bike 🚴‍♀️ and tecnology 💻
 ```
-<br>
 
 ### 📂 Project Portofolio
 [**Click here, please!**](https://github.com/litahu/Lita-s-Project-Portfolio)
