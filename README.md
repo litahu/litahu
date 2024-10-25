@@ -1,5 +1,5 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-I'm Litahu! I'm aspiring to become a data professional ⭐
+I'm Lita Hume! I'm aspiring to become a data professional ⭐
 <br>
 
 ```diff
