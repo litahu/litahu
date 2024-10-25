@@ -1,5 +1,5 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-![me_banner](https://github.com/user-attachments/assets/cbe896b8-2a3d-45c5-ba6e-944b7a0075c7)
+![me_banner_specialist](https://github.com/user-attachments/assets/2c8f15e3-a62c-4056-a187-095dea097244)
 
 ```diff
 📊 Competencies: Explotaroty Data Analysis, Statistical Analysis, Data Visualization y Machine Learning
