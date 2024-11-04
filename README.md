@@ -2,6 +2,7 @@
 ![mp_inspiration](https://github.com/user-attachments/assets/827e70f5-f8c9-42e4-846d-ed2e8a5bfadf)
 
 ```diff
+
 @Científica de datos
 
 📊 Competencies: Programming, Statistical Analysis, Data Visualization y Machine Learning
