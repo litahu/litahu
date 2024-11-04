@@ -3,11 +3,10 @@
 
 ```diff
 
-@Científica de datos
-
 📊 Competencies: Programming, Statistical Analysis, Data Visualization y Machine Learning
 💻 My technology stack: # Python # SQL(MySQL) #BigQuery #Tableu #Looker Studio y # Git
 🌍 Love riding a bike 🚴‍♀️ and tecnology ⚡
+
 ```
 
 ### 📂 Project Portofolio
