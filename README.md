@@ -5,7 +5,7 @@
 
 📊 Competencies: Programming, Statistical Analysis, Data Visualization y Machine Learning
 💻 My technology stack: # Python # SQL(MySQL) #BigQuery #Tableu #Looker Studio y # Git
-🌍 Love riding a bike 🚴‍♀️ and tecnology ⚡
+🌍 Love riding a bike 🚴‍♀️ and the tecnology ⚡
 
 ```
 
