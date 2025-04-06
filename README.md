@@ -2,8 +2,6 @@
 ![mp_inspiration](https://github.com/user-attachments/assets/827e70f5-f8c9-42e4-846d-ed2e8a5bfadf)
 
 # Hi there! 👋🏼
-Soy Ing. Económica apasionada por el análisis de datos y el aprendizaje automático para optimizar procesos y tareas. Obtengo información valiosa y fluida de los datos estructurados y no estructurados 
-
 Estoy aspirando a convertirme en un profesional de datos. Estoy sumergiéndome en el mundo del análisis de datos, la ciencia de los datos y la ingeniería de datos, aunque mi educación formal no me llevó exactamente por el camino de la informática o las estadísticas. Pero ¿adivinen qué? ¡No voy a dejar que eso me detenga ⚡!
 <br>
 
