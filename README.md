@@ -1,6 +1,4 @@
 ## Hi there! Soy Lita <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
-![mp_inspiration](https://github.com/user-attachments/assets/827e70f5-f8c9-42e4-846d-ed2e8a5bfadf)
-
 Hola ahí! 👋🏼 Soy Ing. Económica apasionada por el análisis de datos y el aprendizaje automático para optimizar procesos y tareas. Obtengo información valiosa y fluida de los datos estructurados y no estructurados ✨
 <br>
 
