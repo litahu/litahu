@@ -1,5 +1,6 @@
 ## Hi there! Soy Lita <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
-Hola ahí! 👋🏼 Soy Ing. Económica apasionada por el análisis de datos y el aprendizaje automático para optimizar procesos y tareas. Obtengo información valiosa y fluida de los datos estructurados y no estructurados ✨
+Hola ahí! 👋🏼  Como Ing. Económica, me apasiona ver como los modelos abstractos comienzan a hablar a través de los datos.  
+"Convierto los números en narrativas que expliquen cómo se comportan realmente las economías". 📈✨
 <br>
 
 ### ✅ Competencies
@@ -7,7 +8,7 @@ Explotaroty Data Analysis, Data Wraggling, Statistical Analysis, Data Visualizat
 <br>
 
 ### 💻 Tech Stack
-Python, SQL (MySQL), BigQuery, Tableau, Looker Studio, Power BI y Power Automate <br>
+Python, SQL (MySQL, SQL Server), BigQuery, Looker Studio, Power BI, N8N y AWS <br>
 <br>
 
 ### 📂 Project Portofolio
