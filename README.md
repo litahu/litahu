@@ -2,13 +2,9 @@
 
 Your next favorite Data Scientist
 
-<br>
-
 ## About me
 
 I'm a Data Scientist with experience in Python(Pandas, NumPy, Matplotlib, Plotly, Scikit-learn and PyTorch), MySQL, Power BI, Looker, MLflow. Nanodegree AWS Certified Machine Learning engineer. Love cycling 🚴‍♀️ and coding models 💻.
-
-<br>
 
 ## Contact me
 
