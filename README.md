@@ -1,19 +1,21 @@
-## Hi there! Soy Lita <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
-Hola ahí! 👋🏼  Como Ing. Económica, me apasiona ver como los modelos abstractos comienzan a hablar a través de los datos.  
-"Convierto los números en narrativas que expliquen cómo se comportan realmente las economías". 📈✨
+# 💫 Lita Huánuco Medina <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+--
+Your next favorite Data Scientist
+
 <br>
 
-### ✅ Competencies
-Explotaroty Data Analysis, Data Wraggling, Statistical Analysis, Data Visualization, Machine Learning, ETL/ELT y RDBMS <br>
+## About me
+--
+I'm a Data Scientist with experience in Python(Pandas, NumPy, Matplotlib, Plotly, Scikit-learn and PyTorch), MySQL, Power BI, Looker, MLflow. Nanodegree AWS Certified Machine Learning engineer. Love cycling 🚴‍♀️ and coding models 💻.
+
 <br>
 
-### 💻 Tech Stack
-Python, SQL (MySQL, SQL Server), BigQuery, Looker Studio, Power BI, N8N y AWS <br>
+## Contact me
+--
+* [LinkedIn](www.linkedin.com/in/litahumedata)
+* [Portafolio](https://github.com/litahu/Lita-s-Project-Portfolio)
 <br>
 
-### 📂 Project Portofolio
-[**Click here, please!**](https://github.com/litahu/Lita-s-Project-Portfolio)
-<br>
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=litahu&label=Profile%20views&color=yellowgreen&style=plastic=star" alt="litahu" style="padding-center:20px;" />
