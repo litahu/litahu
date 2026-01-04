@@ -1,4 +1,4 @@
-# 💫 Lita Huánuco Medina <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+# 💫 Lita Huánuco <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 Your next favorite Data Scientist
 
