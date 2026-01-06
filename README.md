@@ -4,7 +4,7 @@ Your next favorite Data Scientist Junior 🥼
 
 ## About me
 
-I'm a Data Scientist Junior with experience analyzing data using Python(Pandas, NumPy, Matplotlib, Plotly, Scikit-learn and PyTorch), MySQL, Power BI, Looker, MLflow. Certified Machine Learning engineer. Love cycling 🚴‍♀️ and coding models 💻.
+I'm a Data Scientist Junior with experience analyzing data using Python(Pandas, NumPy, Matplotlib, Plotly, Scikit-learn and PyTorch), MySQL, Power BI, Looker, MLflow. Love cycling 🚴‍♀️ and coding models 💻.
 
 ## Contact me
 
