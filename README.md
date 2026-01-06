@@ -1,10 +1,10 @@
-# 💫 Lita Huánuco <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+# 💫 Lita Hume <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
-Your next favorite Data Scientist
+Your next favorite Business Intelligence
 
 ## About me
 
-I'm a Data Scientist with experience in Python(Pandas, NumPy, Matplotlib, Plotly, Scikit-learn and PyTorch), MySQL, Power BI, Looker, MLflow. Nanodegree AWS Certified Machine Learning engineer. Love cycling 🚴‍♀️ and coding models 💻.
+I'm a Business Intelligence with experience in Python(Pandas, NumPy, Matplotlib, Plotly, Scikit-learn and PyTorch), MySQL, Power BI, Looker, MLflow. Nanodegree AWS Certified Machine Learning engineer. Love cycling 🚴‍♀️ and coding models 💻.
 
 ## Contact me
 
