@@ -8,7 +8,7 @@ I'm a Data Scientist Junior with experience analyzing data using Python(Pandas, 
 
 ## Contact me
 
-* [LinkedIn](www.linkedin.com/in/litahumedata)
+* [LinkedIn](https://www.linkedin.com/in/litahumedata/)
 * [Portafolio](https://github.com/litahu/Lita-s-Project-Portfolio)
 <br>
 
