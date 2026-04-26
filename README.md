@@ -6,6 +6,14 @@ Your next favorite Data Scientist Junior 🥼
 
 I'm a Data Scientist Junior with experience analyzing data using Python(Pandas, NumPy, Matplotlib, Plotly, Scikit-learn and PyTorch), MySQL, Power BI, Looker, MLflow. Love cycling 🚴‍♀️ and coding models 💻.
 
+## Tech Stack
+
+ 
+### ☁️ Cloud & Platforms 
+![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
 ## Contact me
 
 * [LinkedIn](https://www.linkedin.com/in/litahumedata/)
