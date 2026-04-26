@@ -1,4 +1,4 @@
-# <h1 align="center"> 💫 Lita Hume <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="33px"> </h1>
+# <h1 align="center"> 💫 Hi, I'm Lita! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="33px"> </h1>
 
 Your next favorite Data Scientist Junior 🥼
 
