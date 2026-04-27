@@ -7,8 +7,8 @@
 </div>
 
 ### 🏆 Key Projects
-- **App VitaCore CRM**: Implementación personalizada en Salesforce [(Ver proyecto](https://github.com/litahu/Salesforce_Admin) + [Demo)](https://drive.google.com/file/d/1CotmTgXQKgvfI75MK0KpXVGWM8ugF24I/view?usp=sharing) 
-- **IFRS9 Modeling**: PD/LGD/EAD estimation for BBVA  
+- **VitaCore CRM App**: Custom implementation in Salesforce [(Ver proyecto](https://github.com/litahu/Salesforce_Admin) + [Demo)](https://drive.google.com/file/d/1CotmTgXQKgvfI75MK0KpXVGWM8ugF24I/view?usp=sharing) 
+- **E-commerce performance**: Explotaroty Data Analysis, Data Wraggling, Statistical Analysis, Data Visualization for Aurelión  [(Ver proyecto](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_2) + [Demo)](https://drive.google.com/file/d/1-epThm9diWGVSOsFJq6HmCeT-WlxyZAi/edit)  
 - **Credit Card Admission Model**: Scoring model  (LightGBM) for the credit card product
 - **NLP Reviews**: 50K+ booking.com reviews analysis [GitHub](https://github.com/Enzo280100/textmining_booking)
 - **LLMs**: Financial sentiment classification with LLM models (BERT, FinBERT, TinyLlama, Zero-Shot Learning) [GitHub](https://github.com/victorsobottka/nlp_finalproject_2025/tree/main)
