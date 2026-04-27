@@ -2,9 +2,11 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=00CED1&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Candara&letterSpacing=1.2&pause=1000&color=38A5FFFB&width=435&lines=--%3E+Your+next+favorite+Data+Scientist+Junior+%F0%9F%A5%BC)](https://git.io/typing-svg)
 
 </div>
+
+---
 
 ### 📂 Project Portofolio
 
