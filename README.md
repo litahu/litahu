@@ -1,6 +1,10 @@
 # <h1 align="center"> 💫 Hi, I'm Lita! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="33px"> </h1>
 
-Your next favorite Data Scientist Junior 🥼
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Candara&letterSpacing=1.2&pause=1000&color=6FE6FFFB&width=435&lines=--%3E+Your+next+favorite+Data+Scientist+Junior+%F0%9F%A5%BC)](https://git.io/typing-svg)
+
+</div>
 
 ## About me
 
