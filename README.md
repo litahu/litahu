@@ -7,7 +7,7 @@
 </div>
 
 ### 🏆 Key Projects
-- **App VitaCore CRM**: Implementación en Salesforce [(Ver proyecto](https://github.com/litahu/Salesforce_Admin) + [(Demo)](https://drive.google.com/file/d/1CotmTgXQKgvfI75MK0KpXVGWM8ugF24I/view?usp=sharing) 
+- **App VitaCore CRM**: Implementación personalizada en Salesforce [(Ver proyecto](https://github.com/litahu/Salesforce_Admin) + [Demo)](https://drive.google.com/file/d/1CotmTgXQKgvfI75MK0KpXVGWM8ugF24I/view?usp=sharing) 
 - **IFRS9 Modeling**: PD/LGD/EAD estimation for BBVA  
 - **Credit Card Admission Model**: Scoring model  (LightGBM) for the credit card product
 - **NLP Reviews**: 50K+ booking.com reviews analysis [GitHub](https://github.com/Enzo280100/textmining_booking)
