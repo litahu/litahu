@@ -6,13 +6,6 @@
 
 </div>
 
-
-### 📂 Project Portofolio
-
-* [Ver Portafolio](https://github.com/litahu/Lita-s-Project-Portfolio)
-
-<br>
-
 ### 🏆 Key Projects
 
 - **IFRS9 Modeling**: PD/LGD/EAD estimation for BBVA  
@@ -21,6 +14,13 @@
 - **LLMs**: Financial sentiment classification with LLM models (BERT, FinBERT, TinyLlama, Zero-Shot Learning) [GitHub](https://github.com/victorsobottka/nlp_finalproject_2025/tree/main)
 
 <br>
+
+### 📂 Project Portofolio
+
+* [Ver Portafolio](https://github.com/litahu/Lita-s-Project-Portfolio)
+
+<br>
+
 
 ### 💻 Tech Stack
 
