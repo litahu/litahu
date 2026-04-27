@@ -6,11 +6,10 @@
 
 </div>
 
----
 
 ### 📂 Project Portofolio
 
-* [Portafolio](https://github.com/litahu/Lita-s-Project-Portfolio)
+* [Ver Portafolio](https://github.com/litahu/Lita-s-Project-Portfolio)
 
 <br>
 
