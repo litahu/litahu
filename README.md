@@ -11,12 +11,12 @@
 ETL/ELT, RDBMS, CRISP-DM, Exploratory Data Analysis, Data Wraggling, Statistical Analysis, Data Visualization y Data Storytelling.
 
 ### 💻 Tech Stack
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scrapy, Pytorch), SQL (MySQL, Postgres, SQL Server, Dbeaver), Looker Studio, PowerBI, Machine Learning (Supervisado, No Supervisado y por refuerzo), Streamlit y Git/Github (Control de versiones).
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scrapy, Pytorch), SQL (MySQL, Postgres, SQL Server), Looker Studio, PowerBI, Machine Learning (Supervised, Unsupervised and Reinforcement Learning), Streamlit y Git/Github (Version control).
 
 
 ### 📂 Project Portofolio
 
-* [Click aquí, por favor!](https://github.com/litahu/Lita-s-Project-Portfolio)
+* [Click here, please!](https://github.com/litahu/Lita-s-Project-Portfolio)
 
 <br>
 <!--Profile Count Badge-->
