@@ -16,9 +16,9 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scrapy, Pytorch), SQL 
 
 ### 📂 Project Portofolio
 
-* [Ver Portafolio](https://github.com/litahu/Lita-s-Project-Portfolio)
+* [Click aquí, por favor!](https://github.com/litahu/Lita-s-Project-Portfolio)
 
-
+<br>
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=litahu&label=Profile%20views&color=yellowgreen&style=plastic=star" alt="litahu" style="padding-center:20px;" />
