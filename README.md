@@ -5,43 +5,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helveltica&size=25&pause=1000&background=5757571A&center=true&vCenter=true&width=435&lines=%3E+Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 </div>
+<br>
 
-### 🏆 Key Projects
-- **VitaCore CRM App**: Custom implementation in Salesforce [(Ver proyecto](https://github.com/litahu/Salesforce_Admin) + [Demo)](https://drive.google.com/file/d/1CotmTgXQKgvfI75MK0KpXVGWM8ugF24I/view?usp=sharing) 
-- **E-commerce performance**: EDA, Data Wraggling, Statistical Analysis, Data Visualization for Aurelión  [(Ver proyecto](https://github.com/litahu/Rendimiento_E-commerce/tree/main/Sprint_2) + [Demo)](https://drive.google.com/file/d/1-epThm9diWGVSOsFJq6HmCeT-WlxyZAi/edit)  
-- **Credit Card Admission Model**: Scoring model  (LightGBM) for the credit card product
+### ✅ Competencies
+ETL/ELT, RDBMS, CRISP-DM, Exploratory Data Analysis, Data Wraggling, Statistical Analysis, Data Visualization y Data Storytelling.
 
+### 💻 Tech Stack
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scrapy, Pytorch), SQL (MySQL, Postgres, SQL Server, Dbeaver), Looker Studio, PowerBI, Machine Learning (Supervisado, No Supervisado y por refuerzo), Streamlit y Git/Github (Control de versiones).
 
+<br>
 <br>
 
 ### 📂 Project Portofolio
 
 * [Ver Portafolio](https://github.com/litahu/Lita-s-Project-Portfolio)
 
-<br>
-
-
-### 💻 Tech Stack
-
-- **Cloud & Platforms** <br>
-![Salesforce](https://img.shields.io/badge/Salesforce-blue?style=for-the-badge&logo=salesforce&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-- **Data Science & ML** <br>
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Plotly Dash](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-
-
-- **Management Tools** <br>
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
-
-###  ✅ Contact me 
-
-* [LinkedIn](https://www.linkedin.com/in/litahumedata/)
-
-<br>
-<br>
 
 <!--Profile Count Badge-->
 <p align="left">
