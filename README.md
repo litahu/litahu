@@ -11,7 +11,7 @@
 ETL/ELT, RDBMS, CRISP-DM, Exploratory Data Analysis, Data Wraggling, Statistical Analysis, Data Visualization y Data Storytelling.
 
 ### 💻 Tech Stack
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scrapy, Pytorch), SQL (MySQL, Postgres, SQL Server), Looker Studio, PowerBI, Machine Learning (Supervised, Unsupervised and Reinforcement Learning), Streamlit y Git/Github (Version control).
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scrapy, Pytorch), SQL (MySQL, Postgres, SQL Server), Looker Studio, PowerBI, Google Cloud y Streamlit.
 
 
 ### 📂 Project Portofolio
